@@ -19,23 +19,6 @@
 
 ---
 
-# 📸 Demo
-
-> **Home Page**
-
-<p align="center">
-  <img src="images/home.png" width="900">
-</p>
-
-> **Generated Travel Plan**
-
-<p align="center">
-  <img src="images/result.png" width="900">
-</p>
-
-*(Add screenshots after creating an `images` folder.)*
-
----
 
 # 🏗️ Architecture
 
